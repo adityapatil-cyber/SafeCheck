@@ -1,0 +1,6 @@
+{
+  "name": "SafeCheck",
+  "description": "Scan suspicious website links and files for malware, phishing, and unwanted software without creating an account.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
